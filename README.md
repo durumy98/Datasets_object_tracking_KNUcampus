@@ -3,7 +3,7 @@
 ## 1) Tracking Dataset
 
 
-![](<img width="640" height="480">https://github.com/durumy98/Datasets/blob/master/tracking_dataset/KNU_campus_small_pedestrian/sequence/0001.jpg</img>)
+![text](https://github.com/durumy98/Datasets/blob/master/tracking_dataset/KNU_campus_small_pedestrian/sequence/0001.jpg)
 
 A Sample frame #0001
 
