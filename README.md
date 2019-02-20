@@ -2,6 +2,7 @@
 
 ## 1) IR Tracking Dataset
 
+Tracking image sequences datasets for IR applications
 
 ![text](https://github.com/durumy98/Datasets/blob/master/tracking_dataset/KNU_campus_small_pedestrian/sequence/0001.jpg)
 
