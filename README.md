@@ -1,7 +1,5 @@
 # Datasets
 
-##1) Tracking Dataset
+1) Tracking Dataset
 
-![Frame#0001]
-
-##2) Panorama dataset
+2) Panorama dataset
