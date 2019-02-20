@@ -7,7 +7,7 @@
 
 A Sample frame #0001
 
-## 2) Panorama dataset
+## 2) Panorama dataset for EO(RGB) and IR fusion
 ### (IR and EO(RGB) datasets for fusion base panorama imaging)
 ### (Location: Kyungpook National University(KNU) Korea)
 
